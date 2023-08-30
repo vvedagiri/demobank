@@ -1,13 +1,14 @@
 .columns > div {
   display: flex;
   flex-direction: column;
-  border: 1px solid #000;
 }
 
 .columns img {
   width: 100%;
 }
-
+.columns > ul,li {
+  border: 1px solid #000;
+}
 .columns > div > div {
   order: 1;
 }
