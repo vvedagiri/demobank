@@ -6,7 +6,7 @@
 .columns img {
   width: 100%;
 }
-.columns > ul,li {
+.columns > ul{
   border: 1px solid #000;
 }
 .columns > div > div {
