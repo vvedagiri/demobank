@@ -6,6 +6,9 @@
 .columns img {
   width: 100%;
 }
+.columns ul{
+  border: 1px solid #000;
+}
 .columns > div > div {
   order: 1;
 }
